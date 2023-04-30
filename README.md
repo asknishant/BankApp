@@ -1,2 +1,2 @@
 # BankApp
-A backend project in Go that deals with daily transactions of its users.
+A backend project in for a bank that deals with daily transactions of its users.
